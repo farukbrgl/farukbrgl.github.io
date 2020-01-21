@@ -110,7 +110,7 @@ a {
 
 
 
-@media (max-width: 767px) {
+@media (width: auto) {
     #headerMenu {
         position: relative;
     }
