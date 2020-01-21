@@ -12,9 +12,9 @@
    sodipodi:docname="logo.svg"
    id="svg1974"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm"
+   viewBox="0 0 12.7 12.7"
+   height="48"
+   width="48"
    inkscape:export-filename="C:\Users\faruk\Desktop\Projects\farukbrgl.github.io\logo.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -30,16 +30,30 @@
      showgrid="false"
      inkscape:current-layer="svg1974"
      inkscape:document-units="mm"
-     inkscape:cy="424.46725"
-     inkscape:cx="193.29694"
-     inkscape:zoom="0.35"
+     inkscape:cy="25.311652"
+     inkscape:cx="32.118234"
+     inkscape:zoom="8"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     showguides="false" />
+     showguides="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata1971">
     <rdf:RDF>
@@ -52,26 +66,26 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="opacity:1;fill:#77ffff;fill-opacity:1;stroke:none;stroke-width:20.25594902;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     id="rect2666"
-     width="210"
-     height="297"
-     x="0"
-     y="-9.1833817e-006" />
+  <circle
+     style="opacity:1;fill:#5e6263;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="path2668"
+     cx="6.3499999"
+     cy="6.3499999"
+     r="6.3499999" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1"
+     transform="translate(0,-284.3)" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:365.40356445px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.74052691"
-     x="0"
-     y="270.27151"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1808691px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c28e2d;fill-opacity:1;stroke:none;stroke-width:0.08385653;"
+     x="4.0482759"
+     y="8.7757483"
      id="text2649"><tspan
        sodipodi:role="line"
        id="tspan2647"
-       x="0"
-       y="270.27151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Algerian;-inkscape-font-specification:Algerian;fill:#ff0000;fill-opacity:1;stroke-width:2.74052691">f</tspan></text>
+       x="4.0482759"
+       y="8.7757483"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Monotype Corsiva';-inkscape-font-specification:'Monotype Corsiva';fill:#c28e2d;fill-opacity:1;stroke-width:0.08385653;">f</tspan></text>
 </svg>
