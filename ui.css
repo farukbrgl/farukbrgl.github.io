@@ -40,10 +40,14 @@ a {
 		 color: rgb(16, 130, 230);
      }
 
-
+.menu {
+  width: 25%;
+  float: left;
+}
 .content {
-    margin: 0 auto;
-    width: 70%;
+    #margin: 0 auto;
+    width: 75%;
+	float: right;
     margin-bottom:50px;
 }
     .content p {
