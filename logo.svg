@@ -30,15 +30,16 @@
      showgrid="false"
      inkscape:current-layer="svg1974"
      inkscape:document-units="mm"
-     inkscape:cy="556.67856"
-     inkscape:cx="166.0009"
-     inkscape:zoom="0.49497475"
+     inkscape:cy="424.46725"
+     inkscape:cx="193.29694"
+     inkscape:zoom="0.35"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     showguides="false" />
   <metadata
      id="metadata1971">
     <rdf:RDF>
@@ -47,22 +48,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="opacity:1;fill:#77ffff;fill-opacity:1;stroke:none;stroke-width:20.25594902;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect2666"
+     width="210"
+     height="297"
+     x="0"
+     y="-9.1833817e-006" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:541.15301514px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:4.05864811"
-     x="43.036839"
-     y="219.57918"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:365.40356445px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.74052691"
+     x="0"
+     y="270.27151"
      id="text2649"><tspan
        sodipodi:role="line"
        id="tspan2647"
-       x="43.036839"
-       y="219.57918"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Parchment;-inkscape-font-specification:Parchment;fill:#ff0000;fill-opacity:1;stroke-width:4.05864811">f</tspan></text>
+       x="0"
+       y="270.27151"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Algerian;-inkscape-font-specification:Algerian;fill:#ff0000;fill-opacity:1;stroke-width:2.74052691">f</tspan></text>
 </svg>
