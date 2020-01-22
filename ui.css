@@ -132,3 +132,13 @@ a {
   .col-12 {width: 100%;}
 }
 
+.top_line { background-color: #ff6666; }
+.mid_line { background-color: #595959; }
+.mib_line { background-color: #595959; }
+.bot_line { background-color: #ff6666; }
+.top_line, .mid_line, .mib_line, .bot_line { padding: 2px; margin-top: 2px; }
+@media screen and (max-width: 0px)   {.top_line { display: none; } }
+@media screen and (min-width: 600px) {.mid_line { display: none; } }
+@media screen and (min-width: 768px) {.mib_line { display: none; } }
+@media screen and (max-width: 0px) {.bot_line { display: none; } }
+
