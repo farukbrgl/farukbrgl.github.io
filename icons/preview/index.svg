@@ -15,7 +15,10 @@
    version="1.1"
    id="svg3124"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="index.svg">
+   sodipodi:docname="index.svg"
+   inkscape:export-filename="C:\Users\faruk\Desktop\Projects\farukbrgl.github.io\icons\preview\index.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs3118" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="602.43813"
-     inkscape:cy="583.46895"
+     inkscape:cx="602.67212"
+     inkscape:cy="579.9333"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,6 +70,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,3)">
+    <rect
+       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:#f7aa35;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect824"
+       width="299.07587"
+       height="299.07587"
+       x="0.46207219"
+       y="-2.5379388" />
     <text
        id="text7973"
        y="106.65423"
