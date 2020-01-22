@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="-123.73266"
-     inkscape:cy="504.3428"
+     inkscape:cx="-92.304089"
+     inkscape:cy="172.91423"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,16 +92,5 @@
          x="-319.70871"
          y="197.46504"
          style="stroke-width:0.62891543">Raylı Sistemler Ağı</tspan></text>
-    <text
-       id="text1291"
-       y="243.4521"
-       x="-314.51636"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.7933197px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81594998"
-       xml:space="preserve"><tspan
-         style="font-size:34.81386566px;stroke-width:0.81594998"
-         y="243.4521"
-         x="-314.51636"
-         id="tspan1289"
-         sodipodi:role="line">Ömer Faruk Birgül, Ocak 2020, CC-BY-SA-4.0 </tspan></text>
   </g>
 </svg>
