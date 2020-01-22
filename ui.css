@@ -20,7 +20,7 @@ html {
 
 body {
     font-family: sans-serif;
-    color: #777;
+    background-color: #f0f0f0;
     
 }
 
@@ -33,12 +33,12 @@ body {
 .menu li {
   padding: 8px;
   margin-bottom: 7px;
-  background-color: #ffffff;
+  background-color: #f0f0f0ff;
   color: black;
 }
 
 .menu li:hover {
-  background-color: #0099cc;
+  background-color: #f0f0f0;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -62,8 +62,7 @@ a {
      margin: 0;
      padding: 50px 0px 50px;
      text-align: center;
-     border-bottom:5px solid #ffffff;
-	 background: #ffffff;
+     border-bottom:5px solid #f0f0f0 ;
  }
     .header h1 {
         margin: 0.1em 0;
@@ -107,7 +106,6 @@ a {
 
 
 .aside {
-  background-color: #ffffff;
   padding: 15px;
   color: black;
   text-align: center;
@@ -115,7 +113,6 @@ a {
 }
 
 .footer {
-  background-color: #ffffff;
   color:black;
   text-align: center;
   font-size: 12px;
