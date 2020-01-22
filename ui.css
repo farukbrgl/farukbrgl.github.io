@@ -63,13 +63,13 @@ a {
      margin: 0;
      padding: 50px 0px 50px;
      text-align: center;
-     border-bottom:5px solid #eee;
-	 background: #d10095;
+     border-bottom:5px solid #ffffff;
+	 background: #ffffff;
  }
     .header h1 {
         margin: 0.1em 0;
         font-size:3em;
-		color: white;
+		color: black;
     }
      .header h2 {
          font-weight:300;
@@ -117,8 +117,8 @@ a {
 }
 
 .footer {
-  background-color: #0099cc;
-  color: #ffffff;
+  background-color: #ffffff;
+  color:black;
   text-align: center;
   font-size: 12px;
   padding: 15px;
@@ -160,6 +160,5 @@ a {
   .col-10 {width: 83.33%;}
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
-
-
+}
 
