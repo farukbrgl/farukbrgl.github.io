@@ -61,10 +61,10 @@ a {
 .header {
      min-height: 80px;
      margin: 0;
-     padding: 50px 20px 30px;
+     padding: 50px 0px 50px;
      text-align: center;
-     border-bottom:1px solid #eee;
-	 background: #f7bb35;
+     border-bottom:5px solid #eee;
+	 background: #d10095;
  }
     .header h1 {
         margin: 0.1em 0;
