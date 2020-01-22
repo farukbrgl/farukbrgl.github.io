@@ -10,15 +10,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="300mm"
-   height="300mm"
-   viewBox="0 0 300 300"
+   height="290mm"
+   viewBox="0 0 300 290"
    version="1.1"
    id="svg3124"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="index.svg"
    inkscape:export-filename="C:\Users\faruk\Desktop\Projects\farukbrgl.github.io\icons\preview\index.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30">
   <defs
      id="defs3118" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="602.67212"
-     inkscape:cy="579.9333"
+     inkscape:cx="581.44442"
+     inkscape:cy="579.18189"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -69,34 +69,30 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,3)">
+     transform="translate(0,-7)">
     <rect
-       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:#f7aa35;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:1.97246015;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect824"
-       width="299.07587"
-       height="299.07587"
-       x="0.46207219"
-       y="-2.5379388" />
+       width="300"
+       height="290"
+       x="0"
+       y="7"
+       sodipodi:insensitive="true" />
     <text
-       id="text7973"
-       y="106.65423"
-       x="0.24874695"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.89066315px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:27.6413517;stroke-miterlimit:4;stroke-dasharray:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:27.6413517;stroke-miterlimit:4;stroke-dasharray:none"
-         y="106.65423"
-         x="0.24874695"
-         id="tspan7971"
-         sodipodi:role="line">faruk</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:27.6413517;stroke-miterlimit:4;stroke-dasharray:none"
-         y="259.01755"
-         x="0.24874695"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.47770691px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78358287"
+       x="21.641792"
+       y="117.41788"
+       id="text828"><tspan
          sodipodi:role="line"
-         id="tspan822">brgl</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:27.6413517;stroke-miterlimit:4;stroke-dasharray:none"
-         y="411.38086"
-         x="0.24874695"
+         id="tspan826"
+         x="21.641792"
+         y="117.41788"
+         style="text-align:start;text-anchor:start;stroke-width:0.78358287">faruk</tspan><tspan
          sodipodi:role="line"
-         id="tspan1233" /></text>
+         x="21.641792"
+         y="248.01501"
+         style="text-align:start;text-anchor:start;stroke-width:0.78358287"
+         id="tspan830">brgl</tspan></text>
   </g>
 </svg>
