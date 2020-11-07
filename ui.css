@@ -20,23 +20,38 @@ html {
 body {
     font-family: sans-serif;
     background-color: #fdfdfd;
-    
+
 }
 
 .menu ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
   background-color: #fdfdfd;
 }
 
+.menu li {
+  float: left;
+}
+
+.menu li a {
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+
+/*
 .menu li {
   padding: 8px;
   margin-bottom: 7px;
   background-color: #fdfdfd;
   color: red;
 }
-
+*/
 .menu li:hover {
   background-color: #fdfdfd;
 }
@@ -56,6 +71,9 @@ h4 {
 a {
     text-decoration: none;
 }
+
+
+
 
 .header {
      min-height: 80px;
@@ -141,4 +159,3 @@ a {
 @media screen and (min-width: 600px) {.mid_line { display: none; } }
 <!--@media screen and (min-width: 768px) {.mib_line { display: none; } }-->
 @media screen and (max-width: 0px) {.bot_line { display: none; } }
-
