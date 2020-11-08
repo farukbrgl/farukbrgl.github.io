@@ -33,6 +33,10 @@ body {
 
 .menu li {
   float: left;
+  font-family: 'GidolinyaRegular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
 }
 
 .menu li a {
@@ -79,6 +83,19 @@ a {
 }
 
 
+@font-face {
+    font-family: 'GidoleRegular';
+    src: url('fonts/GidoleFont/Gidole-Regular.ttf') format('truetype'),
+    font-weight: normal,
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'GidolinyaRegular';
+    src: url('fonts/GidoleFont/Gidolinya-Regular.otf') format('opentype'),
+    font-weight: normal,
+    font-style: normal;
+      }
 
 
 .header {
