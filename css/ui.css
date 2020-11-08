@@ -111,7 +111,7 @@ p.footer {
   text-align: center;
 }
 
-
+a.link:hover {text-decoration:underline;}
 
 .header {
      min-height: 80px;
