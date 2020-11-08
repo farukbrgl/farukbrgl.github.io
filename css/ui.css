@@ -33,7 +33,7 @@ body {
 
 .menu li {
   float: left;
-  font-family: 'GidolinyaRegular';
+  font-family: 'GidolinyaRegular', sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 20px;
@@ -59,14 +59,14 @@ body {
 .menu li:hover {
   background-color: #fdfdfd;
 }
-h1 {
+h2,h1 {
    font-family: 'GlacialIndifferenceRegular';
    font-weight: normal;
    font-style: normal;
 }
 
 
-h2,h3,h4,h5,h6 {
+h3,h4,h6 {
     font-family: sans-serif;
     font-weight: 300;
 }
@@ -81,21 +81,19 @@ h4 {
 a {
     text-decoration: none;
 }
+h5 {
+  font-family: 'Computer Modern Typewriter Light';
+  font-weight: normal;
+  font-style: normal;
+}
 
+p {
+  font-family: 'Computer Modern Typewriter Light';
+  font-weight: normal;
+  font-style: normal;
+  font-size:16px;
+}
 
-@font-face {
-    font-family: 'GidoleRegular';
-    src: url('fonts/GidoleFont/Gidole-Regular.ttf') format('truetype'),
-    font-weight: normal,
-    font-style: normal;
-      }
-
-@font-face {
-    font-family: 'GidolinyaRegular';
-    src: url('fonts/GidoleFont/Gidolinya-Regular.otf') format('opentype'),
-    font-weight: normal,
-    font-style: normal;
-      }
 
 
 .header {
