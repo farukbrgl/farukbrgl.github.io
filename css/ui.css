@@ -88,10 +88,27 @@ h5 {
 }
 
 p {
-  font-family: 'Computer Modern Typewriter Light';
+  font-family: 'CooperHewittMedium';
   font-weight: normal;
   font-style: normal;
   font-size:16px;
+}
+
+p.blog {
+  font-family: 'CooperHewittMedium';
+  font-weight: normal;
+  font-style: normal;
+  font-size:16px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+p.footer {
+  font-family: 'Computer Modern Typewriter Light';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
 }
 
 

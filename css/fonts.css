@@ -21,4 +21,12 @@
     		 url('../fonts/Typewriter/TypewriterLight/cmunbtl.svg#cmuntt') format('svg');
   	font-weight: normal;
   	font-style: normal;
-}
+    }
+
+
+@font-face {
+    font-family: 'CooperHewittMedium';
+    src: url('../fonts/CooperHewitt/CooperHewitt-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    }
